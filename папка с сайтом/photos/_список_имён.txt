@@ -1,0 +1,44 @@
+﻿Назови файл фото любым из двух способов: русским или английским именем (jpg или png).
+
+Серхио Олива   ->   Sergio Oliva.jpg
+Арнольд Шварценеггер   ->   Arnold Schwarzenegger.jpg
+Франко Колумбу   ->   Franco Columbu.jpg
+Фрэнк Зейн   ->   Frank Zane.jpg
+Лу Ферриньо   ->   Lou Ferrigno.jpg
+Майк Ментцер   ->   Mike Mentzer.jpg
+Том Платц   ->   Tom Platz.jpg
+Серж Нюбре   ->   Serge Nubret.jpg
+Робби Робинсон   ->   Robby Robinson.jpg
+Альберт Беклз   ->   Albert Beckles.jpg
+Ли Хейни   ->   Lee Haney.jpg
+Дориан Йейтс   ->   Dorian Yates.jpg
+Самир Баннут   ->   Samir Bannout.jpg
+Ли Лабрада   ->   Lee Labrada.jpg
+Ронни Коулман   ->   Ronnie Coleman.jpg
+Фил Хит   ->   Phil Heath.jpg
+Джей Катлер   ->   Jay Cutler.jpg
+Флекс Уиллер   ->   Flex Wheeler.jpg
+Шон Рэй   ->   Shawn Ray.jpg
+Кевин Леврон   ->   Kevin Levrone.jpg
+Крис Кормье   ->   Chris Cormier.jpg
+Нассер Эль Сонбати   ->   Nasser El Sonbaty.jpg
+Маркус Руль   ->   Markus Ruhl.jpg
+Гюнтер Шлиеркамп   ->   Gunter Schlierkamp.jpg
+Декстер Джексон   ->   Dexter Jackson.jpg
+Бранч Уоррен   ->   Branch Warren.jpg
+Кай Грин   ->   Kai Greene.jpg
+Деннис Вольф   ->   Dennis Wolf.jpg
+Виктор Мартинес   ->   Victor Martinez.jpg
+Деннис Джеймс   ->   Dennis James.jpg
+Фрэнк МакГрат   ->   Frank McGrath.jpg
+Мамдух Эльсбиай   ->   Big Ramy.jpg
+Брэндон Карри   ->   Brandon Curry.jpg
+Шон Роден   ->   Shawn Rhoden.jpg
+Хади Чупан   ->   Hadi Choopan.jpg
+Дерек Лансфорд   ->   Derek Lunsford.jpg
+Крис Бамстед   ->   Chris Bumstead.jpg
+Бреон Энсли   ->   Breon Ansley.jpg
+Флекс Льюис   ->   Flex Lewis.jpg
+Кионе Пирсон   ->   Keone Pearson.jpg
+Дэвид Лейд   ->   David Laid.jpg
+Джефф Сейд   ->   Jeff Seid.jpg
